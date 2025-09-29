@@ -1,0 +1,1 @@
+add_library(ParseCmdLib STATIC parser.cpp parser.h setter.cpp setter.h)
